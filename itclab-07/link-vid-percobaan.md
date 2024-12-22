@@ -1,8 +1,3 @@
-NAMA : Muhamad Rizal Efendi
-NPM : 21081010035
-KELAS : Mikrokontroller (A)
-
-Saya telah melakukan percobaan pada setiap materi pada modul --. Namun percobaan tidak dapat saya selesaikan semuanya dikarenakan pada materi itclab-08 hingga itclab-14 yang membahas mengenai IoT,
-terjadi permasalahan pada device mobile saya yang tidak dapat menjalankan aplikasi IoT MQTT Panel.
-Pada saat membuka aplikasi tersebut, kondisi stuck pada halaman loading screen seperti gambar berikut.
-https://drive.google.com/file/d/1VfmqDy13186hfLnsunsiXq4yCdL13cGk/view?usp=sharing
+Saya melakukan percobaan untuk materi itclab-07dan video hasil percobaan tersebut adalah sebagai berikut.
+1. https://drive.google.com/file/d/1Hhbhz83gCbvYN_p1CGIXyoxtdj7EQNiV/view?usp=sharing
+2. https://drive.google.com/file/d/1E_Sp6daVexR9CoOPQFfA5KRgrbf0FHcy/view?usp=sharing
